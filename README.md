@@ -1,7 +1,9 @@
 ## Instructions
 
+```
 npm install
 npm run start
+```
 
 To view this in codesandbox in action
 
@@ -9,7 +11,7 @@ https://githubbox.com/xunhuang/apolloclient-typescript-codegen
 
 ## regnerate code from graph QL queries
 
-npm run generate
+`npm run generate`
 
 ## Note
 
