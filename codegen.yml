@@ -1,4 +1,5 @@
 overwrite: true
+# should switch to example more permanent
 schema: https://xp3wwv5lyo.sse.codesandbox.io/
 documents:
     - "src/graphql/**/*.{ts,tsx}"
